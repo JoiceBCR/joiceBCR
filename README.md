@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="moinho.png" width="75%" style="border-radius: 2px;" alt="Banner do Perfil" />
+  <img src="banner_perfil" width="75%" style="border-radius: 2px;" alt="Banner do Perfil" />
 </div>
 <br>
 
 <h1 align="center">Hi, i'm Joice Bueno!</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/joice-bueno-2a03a9329">
+  <a href="https://www.linkedin.com/in/joice-bueno-2a03a9329/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joicebuenocorreiarosa@gmail.com">
