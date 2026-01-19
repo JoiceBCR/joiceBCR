@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Olá, aqui é a Joice Bueno!</h1>
+<h1 align="center">Hi, i'm Joice Bueno!</h1>
 
 <p align="center">
   <a href="www.linkedin.com/in/joice-bueno-2a03a9329">
@@ -19,8 +19,8 @@
 </h3>
 
 <p align="center">
-  Sou um estudante de Engenharia de Software apaixonado por unir <b>lógica e criatividade</b>. <br>
-  Trabalho construindo soluções completas na Web e experiências imersivas em Realidade Virtual e Aumentada (XR).
+  I am a Software Engineering student passionate about merging <b>logic and creativity</b>. <br>
+  I specialize in building complete solutions (Full Stack) and creating immersive experiences in Virtual and Augmented Reality (XR).
 </p>
 
 ---
