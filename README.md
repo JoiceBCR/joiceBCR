@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_perfil" width="75%" style="border-radius: 2px;" alt="Banner do Perfil" />
+  <img src="banner_perfil.png" width="75%" style="border-radius: 2px;" alt="Banner do Perfil" />
 </div>
 <br>
 
