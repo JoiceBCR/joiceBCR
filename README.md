@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="moinho.png" width="100%" style="border-radius: 10px;" alt="Banner do Perfil" />
+  <img src="moinho.png" width="75%" style="border-radius: 2px;" alt="Banner do Perfil" />
 </div>
 <br>
 
